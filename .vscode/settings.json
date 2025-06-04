@@ -3,5 +3,5 @@
       "./themes/PKUSimple.css",
       "./themes/PKUMag.css",
     ],
-    "markdown.marp.enableHtml": true
+    "markdown.marp.html": "default"
 }
